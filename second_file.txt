@@ -1,7 +1,5 @@
 created this file in github
 
-<<<<<<< HEAD
 this is the second edit (I'm making an edit here from the command line).
-=======
+
 this is the second edit (further edit from github)
->>>>>>> 9ac6100dfce592c5838580e459670d27154222a6
